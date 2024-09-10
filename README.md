@@ -1,1 +1,1 @@
-Projekt zaliczeniowy przedmiotu Statystyczna analiza danych. Szczegóły dotyczące projektu zawarte są w pliku Projekt_Zaliczeniowy_SAD_2024.pdf
+Projekt zaliczeniowy przedmiotu Statystyczna analiza danych. Szczegóły dotyczące projektu zawarte są w pliku Projekt_Zaliczeniowy_SAD_2024.pdf. Plikiem wykonawczym zadań 1-5 jest plik Project.Rmd, natomiast zadania 6 plik z6_kod.py.
